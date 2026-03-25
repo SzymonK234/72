@@ -1,0 +1,38 @@
+body{
+    font-family: Georgia;
+    color: white;
+}
+header, footer{
+    background-color: #824555;
+    text-align: center;
+    padding: 20px;
+}
+#s1, #s2{
+    width: 30%;
+    height: 350px;
+}
+#s1{
+    background-color: #A26475;
+
+}
+#s2{
+    background-color: #824555;
+}
+#s3{
+    background-color: #A26470;
+    width: 40%;
+    height: 350px;
+}
+table, p, dl{
+    margin: 10px;
+}
+dl{
+    padding: 20px;
+}
+td,th{
+    padding: 5px;
+    border: solid 3px #824555;
+}
+#sekcja{
+    display: flex;
+}
